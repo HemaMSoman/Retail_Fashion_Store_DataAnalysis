@@ -8,7 +8,10 @@ The objective of this dashboard is to analyse the performance of a Retail fashio
 **Click here to view my dataset:**  https://www.kaggle.com/datasets/vanpatangan/retail-fashion-data
 
 **Dashboard Pages and Analysis**
+
 _DAX Measures created in Sales Data_
+
+
         Total Revenue
         Total Manufacturing Cost
         Total Profit
@@ -17,10 +20,19 @@ _DAX Measures created in Sales Data_
         Count of customers, products, orders , returned orders
         New column just to show the discount amount and net profit are also added.
 _DAX Measures created in Customer Data_
+
+
         Top customer, Top purchased gender, top purchased age group, top purchased city were calculated.
+        
 _DAX Measures created in Product Data_
+
+
         Top purchased product, Return rate, top category and the highest sales season are calculated.
+
+        
 _DAX Measures created in Store Data_
+
+
         Top performing region, store, and also top store category are calculated.
         Also revenue per metre is also calculated to know how efficiently a store is using its floor space to generate revenue.
 
