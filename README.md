@@ -37,19 +37,30 @@ _DAX Measures created in Store Data_
         Also revenue per metre is also calculated to know how efficiently a store is using its floor space to generate revenue.
 
 **Analysis Performed**
+
+
     Sales Analysis
+    
     Customer Analysis
+    
     Product Analaysis
+    
     Store Analysis
 
 **Key Insights**
 
 1.Sales peaked during 2023, indicating strong business growth compared to previous years. Seasonal fluctuations observed across months suggest opportunities for demand forecasting and targeted promotional planning.
+
 2.Accessories emerged as the most profitable product category and generated the highest sales revenue. This category represents a key revenue driver for the business and should remain a strategic focus area.
+
 3.Accessories also recorded the highest return volume, indicating a potential gap between customer expectations and product experience. Reducing return rates could significantly improve overall profitability.
+
 4.Customers aged 46–60 generated the highest sales contribution, making them the most valuable customer segment. Tailored marketing campaigns can help strengthen engagement with this demographic group.
+
 5.Lisbon and Algarve consistently performed well across revenue and profitability metrics, demonstrating strong market potential and customer demand in these regions.
+
 6.Revenue contribution was evenly distributed across suppliers, reducing dependence on any single supplier and creating a more resilient supply chain structure.
+
 7.Small stores delivered strong sales performance despite limited floor space, indicating efficient utilization of retail space and operational resources.
 
 
